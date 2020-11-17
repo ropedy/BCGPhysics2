@@ -1,7 +1,7 @@
 # BCGPhysics2
 Simple 2d-physics engine written in C#
 
-Circles and rectangles. No more comples shapes.
+Circles and rectangles. No more complex shapes.
 
 No rotation or friction.
 
